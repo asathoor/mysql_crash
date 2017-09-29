@@ -7,7 +7,7 @@ For a more complex quey see my Sakila samples [seek-action.php](https://github.c
 
 ## db.php
 
-The db.php is ignored, it could look like this:
+The db.php is not include, my file looks like this:
 
 ~~~~
 <?php
